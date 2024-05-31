@@ -1,0 +1,32 @@
+div {
+    justify-content: center;
+    align-items: center;
+    height: 66vh;
+    display: flex;
+  }
+  
+  input {
+    border-radius: 7px;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  button {
+    border-radius: 7px;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  p {
+    font-size: 35px;
+    align-self: self-end;
+    position: absolute;
+    margin-right: 645px;
+    margin-bottom: 150px;
+  }
+ 
+  h1{
+    position: absolute;
+    margin-right: 630px;
+    margin-bottom: 130px;
+  }
